@@ -1,0 +1,5 @@
+streamlit
+pandas>=1.5.3
+pickle
+scikit-learn
+openpyxl
